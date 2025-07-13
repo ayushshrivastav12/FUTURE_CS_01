@@ -1,4 +1,3 @@
-**#FUTURE_CS_02**
 # DVWA Security Testing Report
 
 ## 🔍 Objective
